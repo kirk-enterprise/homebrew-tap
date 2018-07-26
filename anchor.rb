@@ -6,7 +6,7 @@ class Anchor < Formula
   homepage ""
   version "0.4.0"
   url "http://oyh1cogl9.bkt.clouddn.com/anchor-0.4.0.tar.gz"
-  sha256 "609e469faef15c33769e6441ac55a7c68e45c9e267d79d551f7012fcb2b11f3e"
+  sha256 "14d7abc90dc93b467a01f337be4a1135659982645e6356f1144879f2a9355889"
   # depends_on "cmake" => :build
 
   def install
