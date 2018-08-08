@@ -4,9 +4,9 @@
 class Anchor < Formula
   desc "Anchor is commandline tool for vendors to manage charts and app specs in KE App Store."
   homepage ""
-  version "0.4.0"
-  url "http://oyh1cogl9.bkt.clouddn.com/anchor-0.4.0.tar.gz"
-  sha256 "14d7abc90dc93b467a01f337be4a1135659982645e6356f1144879f2a9355889"
+  version "0.5.0"
+  url "http://oyh1cogl9.bkt.clouddn.com/anchor-0.5.0.tar.gz"
+  sha256 "91123894bfc788a3f6555c41ce17e82eefb63c1f4ec0de3c3af3200a49efc02d"
   # depends_on "cmake" => :build
 
   def install
